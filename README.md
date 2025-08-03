@@ -10,21 +10,17 @@
 
 ## Complete Albums to Playlist
 
-This is an app for Apple Music on macOS that will create a playlist called "Complete Albums" that contains all albums with more than 7 songs.
+This is an Apple Script for Apple Music on macOS that will create a playlist called "Complete Albums" that contains all albums with more than 7 songs.
 
 From there, you can use the playlist as a base, and create Smart Playlists to have all complete albums from one genre, or maybe everything minus a genre. Go wild!
 
-> [!CAUTION]
-> THIS APP COMES WITH NO GUARANTEES.<br>
-> Please make a complete backup of your Music library before proceeding just in case. <br>
-> I am not responsible for any data loss.
-
 If you find any bugs, please raise an issue.
 
-![Find Albums](images/screenshot1.png)
-![Find Qualifying Albums](images/screenshot2.png)
-![Complete](images/screenshot3.png)
----
+<p align="center">
+ <img alt="Find Albums" src="images/screenshot1.png" width=500 align="center">
+ <img alt="Find Qualifying Albums" src="images/screenshot2.png" width=500 align="center">
+ <img alt="Complete" src="images/screenshot3.png" width=500 align="center">
+</p>
 
 ## Features
 
@@ -36,9 +32,16 @@ If you find any bugs, please raise an issue.
 
 ## Installation
 
-1. Close Apple Music if it's open.
-1. Download the [latest](https://github.com/realrogue/kagi-darker/releases/latest) `Complete Albums to Playlist.app`.
-1. Copy the app to `~/Library/Music/Scripts/`.
-1. Open Apple Music.
+> [!CAUTION]
+> BACKUP YOUR MUSIC LIBRARY FIRST.<br>
+> I am not responsible for any data loss, and this app comes with zero guarantees.
+
+1. Download and unzip the [latest release](https://github.com/realrogue/kagi-darker/releases/latest).
+1. Copy the `.app` to `~/Library/Music/Scripts/`.
+1. Open Apple Music if it's not already open.
 1. Open the scripts menu in the menu bar and click on "Complete Albums to Playlist"
-5. Let it run and enjoy!
+1. Let it run and enjoy!
+
+---
+
+This was heavily inspired by [dougscripts](https://dougscripts.com). If you love music, and use Apple Music or iTunes, give his site a visit. The best Apple Scripter in the world!
