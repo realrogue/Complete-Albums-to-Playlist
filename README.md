@@ -16,10 +16,10 @@ From there, you can use the playlist as a base, and create Smart Playlists to ha
 
 If you find any bugs, please raise an issue.
 
-<p align="center">
- <img alt="Find Albums" src="images/screenshot1.png" width=400 align="center"><br>
- <img alt="Find Qualifying Albums" src="images/screenshot2.png" width=400 align="center"><br>
- <img alt="Complete" src="images/screenshot3.png" width=400 align="center">
+<p>
+ <img alt="Find Albums" src="images/screenshot1.png" width=450 style="margin:5px"><br>
+ <img alt="Find Qualifying Albums" src="images/screenshot2.png" width=450 style="margin:5px"><br>
+ <img alt="Complete" src="images/screenshot3.png" width=450 style="margin:5px">
 </p>
 
 ## Features
