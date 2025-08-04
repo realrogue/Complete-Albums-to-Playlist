@@ -18,7 +18,7 @@ If you find any bugs, please raise an issue.
 
 <p>
  <img alt="Find Albums" src="images/screenshot1.png" width=450 style="margin:5px"><br>
- <img alt="Find Qualifying Albums" src="images/screenshot2.png" width=450 style="margin:5px"><br>
+ <img alt="Find Qualifying Albums" src="images/screenshot2.png" width=450 style="margin:10px"><br>
  <img alt="Complete" src="images/screenshot3.png" width=450 style="margin:5px">
 </p>
 
@@ -36,7 +36,7 @@ If you find any bugs, please raise an issue.
 > BACKUP YOUR MUSIC LIBRARY FIRST.<br>
 > I am not responsible for any data loss, and this app comes with zero guarantees.
 
-1. Download and unzip the [latest release](https://github.com/realrogue/kagi-darker/releases/latest).
+1. Download and unzip the [latest release](https://github.com/realrogue/Complete-Albums-to-Playlist/releases/latest).
 1. Copy the `.app` to `~/Library/Music/Scripts/`.
 1. Open Apple Music if it's not already open.
 1. Open the scripts menu in the menu bar and click on "Complete Albums to Playlist"
